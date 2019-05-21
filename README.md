@@ -8,10 +8,10 @@ APP glossaire Game of thrones
         https://api.got.show/api/
 
 ## Home
-<img src="./data/img/Capture d’écran 2019-05-21 à 12.40.47.png">
+<img src="./data/img/01.png">
 
 ## Characters
-<img src="./data/img/Capture d’écran 2019-05-21 à 12.40.59.png">
+<img src="./data/img/02.png">
 
 ## Character
-<img src="./data/img/Capture d’écran 2019-05-21 à 12.41.08.png">
+<img src="./data/img/03.png">
